@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_marginBottom="10dp"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ImageView
+        android:id="@+id/productImage"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+
+        tools:srcCompat="@tools:sample/avatars"
+        />
+
+    <TextView
+        android:id="@+id/productName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="productName"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:ellipsize="end"
+        android:singleLine="true"
+        />
+   <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+       android:gravity="center_vertical"
+    >
+       <TextView
+           android:id="@+id/productPrice"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textColor="@color/purple_500"
+           tools:text="2000" />
+       <TextView
+           android:id="@+id/productOldPrice"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           tools:text="2000"
+           android:visibility="invisible"
+           android:layout_marginStart="10dp"
+           />
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="end"
+           >
+           <CheckBox
+               android:id="@+id/favoriteHomeIcon"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:button="@drawable/sl_favourite_24dp"
+               app:buttonTint="@android:color/holo_red_dark"
+
+               />
+       </LinearLayout>
+
+
+
+   </LinearLayout>
+
+
+
+</LinearLayout>

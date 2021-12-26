@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Shop App</string>
+    <string name="skip">Skip</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="dont_have_an_account">Don\'t have an account ?</string>
+    <string name="register">REGISTER</string>
+    <string name="register_now_to_brows_our_hot_offers">register now to browse our hot offers</string>
+    <string name="name">name</string>
+    <string name="phone">Phone</string>
+    <string name="error">An Error</string>
+    <string name="ok">OK</string>
+    <string name="home">Home</string>
+    <string name="category">Categories</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="categories">Categories</string>
+    <string name="new_products">New Products</string>
+    <string name="there_is_no_favorites_found">There is No Favorites Found</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="edit">Edit</string>
+    <string name="search">search</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="login_now_to_brows_our_hot_offers">Login now to browse our hot offers</string>
+    <string name="arabic">العربية</string>
+
+</resources>

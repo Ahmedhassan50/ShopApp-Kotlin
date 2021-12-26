@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/drawable-v24/ic_baseline_mail_outline_24.xml" value="0.17962962962962964" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/drawable/ic_baseline_apps_24.xml" value="0.1712962962962963" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.17592592592592593" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1814814814814815" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1814814814814815" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.17592592592592593" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.17962962962962964" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.17777777777777778" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1814814814814815" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.17592592592592593" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/drawable/sl_favourite_24dp.xml" value="0.17777777777777778" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/drawable/text_line_through.xml" value="0.1814814814814815" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/activity_auth.xml" value="0.20416666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/activity_on_boarding.xml" value="0.20416666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/banner_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/category_home_item.xml" value="0.5" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/category_item.xml" value="0.19791666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/drawer_header.xml" value="0.1947463768115942" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/favorite_item.xml" value="0.19791666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/fragment_categories.xml" value="0.20416666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/fragment_favorites.xml" value="0.20416666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/fragment_home.xml" value="0.12" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/fragment_login.xml" value="0.20199275362318841" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/fragment_profile.xml" value="0.1947463768115942" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/fragment_search.xml" value="0.1947463768115942" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/fragment_settings.xml" value="0.18" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/onboarding_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/product_item.xml" value="0.2" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/layout/sign_up_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/menu/bottom_nav_items.xml" value="0.20416666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/menu/drawer_menu.xml" value="0.16" />
+        <entry key="..\:/fci/programming/Android/Kotlin/Applications/KotlinShopApp/app/src/main/res/menu/tool_bar_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

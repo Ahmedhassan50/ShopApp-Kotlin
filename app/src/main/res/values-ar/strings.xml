@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shop App</string>
+    <string name="skip">تخطى</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="login_now_to_brows_our_hot_offers">تسجيل الدخول الآن لتصفح عروضنا الجديدة</string>
+    <string name="email_address">"البريد الإلكتروني "</string>
+    <string name="password">كلمة المرور</string>
+    <string name="dont_have_an_account">"ليس لديك حساب؟ "</string>
+    <string name="register">انشاء حساب</string>
+    <string name="register_now_to_brows_our_hot_offers">سجل الآن لتصفح عروضنا الجديدة</string>
+    <string name="name">الاسم</string>
+    <string name="phone">الموبايل</string>
+    <string name="error">خطا</string>
+    <string name="ok">تم</string>
+    <string name="home">الرئيسية</string>
+    <string name="category">التصنيفات</string>
+    <string name="favorites">"المفضلة "</string>
+    <string name="settings">"إعدادات "</string>
+    <string name="categories">التصنيفات</string>
+    <string name="new_products">منتجات جديدة</string>
+    <string name="there_is_no_favorites_found">لم يتم العثور على مفضلات</string>
+    <string name="profile">الحساب</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="edit">تعديل</string>
+    <string name="search">بحث</string>
+    <string name="language">اللغة</string>
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+</resources>
